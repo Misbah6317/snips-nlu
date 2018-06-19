@@ -11,3 +11,7 @@ __license__ = "Apache License, Version 2.0"
 
 __version__ = "0.14.0"
 __model_version__ = "0.15.0"
+
+__download_url__ = "https://github.com/snipsco/snips-nlu-language-resources/releases/download"
+__compatibility__ = "https://raw.githubusercontent.com/snipsco/snips-nlu-language-resources/master/compatibility.json?token=AKhN23Hl98dB92Y12yaqlArSHj3gvRCXks5bMi3QwA%3D%3D"
+__shortcuts__ = "https://raw.githubusercontent.com/snipsco/snips-nlu-language-resources/master/shortcuts.json?token=AKhN2zxdczwnLBZoMg0uRzmcZIqQIwcUks5bMi3gwA%3D%3D"
